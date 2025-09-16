@@ -1,0 +1,428 @@
+20250807 21:44:16 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250807 21:44:18 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250807 21:44:18 WARN  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java43 - TC01_ErrorSF My Test Skipped-----------------
+20250807 21:44:18 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250807 21:46:22 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250807 21:46:28 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250807 21:46:35 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250807 21:46:35 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC01_ErrorSF My Test Failed------------------
+20250807 21:46:35 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250807 21:46:44 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250807 21:46:45 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250807 23:10:42 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250807 23:10:52 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250807 23:10:59 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250807 23:11:02 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC01_ErrorSF My Test Success------------
+20250807 23:11:11 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250807 23:11:11 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250807 23:11:31 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250807 23:11:33 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250807 23:11:40 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250807 23:11:44 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC01_ErrorSF My Test Success------------
+20250807 23:11:53 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250807 23:11:53 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250807 23:48:20 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250807 23:48:24 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250807 23:48:31 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250807 23:48:32 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250807 23:48:32 INFO  [main] Base.BasePage BasePage.java54 - Login button was enabled and clicked
+20250807 23:48:35 INFO  [main] Base.BasePage BasePage.java77 - Text of [[ChromeDriver: chrome on WINDOWS (c225c82f36c56e1677c98ae9fa3207f6)] -> id: error] : Error: Please enter your password.
+20250807 23:48:35 INFO  [main] Base.BasePage BasePage.java125 - Checking validation...
+20250807 23:48:35 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC01_ErrorSF My Test Success------------
+20250807 23:48:44 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250807 23:48:44 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250807 23:59:04 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250807 23:59:13 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250807 23:59:20 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250807 23:59:20 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250807 23:59:21 INFO  [main] Base.BasePage BasePage.java54 - Login button was enabled and clicked
+20250807 23:59:24 INFO  [main] Base.BasePage BasePage.java77 - Text : Error: Please enter your password.
+20250807 23:59:24 INFO  [main] Base.BasePage BasePage.java125 - Checking validation...
+20250807 23:59:24 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC01_ErrorSF My Test Success------------
+20250807 23:59:34 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250807 23:59:34 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250808 00:02:44 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250808 00:02:53 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:03:00 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC02_LoginSF My Test Started---------------
+20250808 00:03:00 INFO  [main] Base.BasePage BasePage.java70 - Title: Login | Salesforce
+20250808 00:03:01 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:03:01 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 00:03:02 INFO  [main] Base.BasePage BasePage.java54 - Login button was enabled and clicked
+20250808 00:03:05 INFO  [main] Base.BasePage BasePage.java70 - Title: Salesforce - Developer Edition
+20250808 00:03:05 INFO  [main] Base.BasePage BasePage.java125 - Checking validation...
+20250808 00:03:05 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC02_LoginSF My Test Failed------------------
+20250808 00:03:05 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250808 00:03:15 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250808 00:03:15 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250808 00:09:53 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250808 00:09:57 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:10:04 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250808 00:10:04 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:10:05 INFO  [main] Base.BasePage BasePage.java54 - Login button was enabled and clicked
+20250808 00:10:08 INFO  [main] Base.BasePage BasePage.java77 - Text : Error: Please enter your password.
+20250808 00:10:08 INFO  [main] Base.BasePage BasePage.java125 - Checking validation...
+20250808 00:10:08 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC01_ErrorSF My Test Success------------
+20250808 00:10:17 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250808 00:10:19 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:10:26 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC02_LoginSF My Test Started---------------
+20250808 00:10:26 INFO  [main] Base.BasePage BasePage.java70 - Title: Login | Salesforce
+20250808 00:10:26 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:10:26 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 00:10:27 INFO  [main] Base.BasePage BasePage.java54 - Login button was enabled and clicked
+20250808 00:10:30 INFO  [main] Base.BasePage BasePage.java70 - Title: Salesforce - Developer Edition
+20250808 00:10:30 INFO  [main] Base.BasePage BasePage.java130 - Checking validation...
+20250808 00:10:30 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC02_LoginSF My Test Success------------
+20250808 00:10:39 INFO  [main] Base.BaseTest BaseTest.java113 - browser get closed successfully..
+20250808 00:10:39 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250808 00:35:02 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250808 00:35:08 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:35:15 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC03_RememberMe My Test Started---------------
+20250808 00:35:15 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:35:15 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 00:35:15 INFO  [main] Base.BasePage BasePage.java66 - rememberMe CheckBox was enabled and clicked
+20250808 00:35:19 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250808 00:35:22 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250808 00:35:26 INFO  [main] Base.BasePage BasePage.java66 - logout button was enabled and clicked
+20250808 00:35:29 INFO  [main] Base.BasePage BasePage.java87 - Title: Login | Salesforce
+20250808 00:35:29 INFO  [main] Base.BasePage BasePage.java142 - Checking validation...
+20250808 00:35:29 INFO  [main] Base.BasePage BasePage.java53 - userName is displayed
+20250808 00:35:29 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC03_RememberMe My Test Success------------
+20250808 00:35:32 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:35:32 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250808 00:41:05 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250808 00:41:15 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:41:22 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC04A_ForgetPassword My Test Started---------------
+20250808 00:41:22 INFO  [main] Base.BasePage BasePage.java66 - forgetPassword_Link was enabled and clicked
+20250808 00:41:25 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  remember_UserName
+20250808 00:41:25 INFO  [main] Base.BasePage BasePage.java66 - Remember_ContinueButton was enabled and clicked
+20250808 00:41:28 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC04A_ForgetPassword My Test Failed------------------
+20250808 00:41:29 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250808 00:41:32 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:41:32 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250808 00:43:37 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250808 00:43:44 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:43:51 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC04A_ForgetPassword My Test Started---------------
+20250808 00:43:51 INFO  [main] Base.BasePage BasePage.java66 - forgetPassword_Link was enabled and clicked
+20250808 00:43:54 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  remember_UserName
+20250808 00:43:55 INFO  [main] Base.BasePage BasePage.java66 - Remember_ContinueButton was enabled and clicked
+20250808 00:43:58 INFO  [main] Base.BasePage BasePage.java94 - Text : Check Your Email
+20250808 00:43:58 INFO  [main] Base.BasePage BasePage.java142 - Checking validation...
+20250808 00:43:58 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC04A_ForgetPassword My Test Success------------
+20250808 00:44:01 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:44:01 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250808 00:49:26 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250808 00:49:32 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:49:39 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC04B_ValidateLoginErrorMesg My Test Started---------------
+20250808 00:49:39 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:49:39 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 00:49:40 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250808 00:49:43 INFO  [main] Base.BasePage BasePage.java94 - Text : Error: Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20250808 00:49:43 INFO  [main] Base.BasePage BasePage.java142 - Checking validation...
+20250808 00:49:43 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC04B_ValidateLoginErrorMesg My Test Success------------
+20250808 00:49:46 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:49:46 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250808 00:50:16 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250808 00:50:21 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:50:28 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC01_ErrorSF My Test Started---------------
+20250808 00:50:28 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:50:29 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250808 00:50:32 INFO  [main] Base.BasePage BasePage.java94 - Text : Error: Please enter your password.
+20250808 00:50:32 INFO  [main] Base.BasePage BasePage.java142 - Checking validation...
+20250808 00:50:32 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC01_ErrorSF My Test Success------------
+20250808 00:50:34 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:50:36 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:50:43 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC02_LoginSF My Test Started---------------
+20250808 00:50:43 INFO  [main] Base.BasePage BasePage.java82 - Title: Login | Salesforce
+20250808 00:50:43 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:50:43 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 00:50:43 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250808 00:50:56 INFO  [main] Base.BasePage BasePage.java82 - Title: Salesforce - Developer Edition
+20250808 00:50:56 INFO  [main] Base.BasePage BasePage.java147 - Checking validation...
+20250808 00:50:56 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC02_LoginSF My Test Success------------
+20250808 00:50:58 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:51:00 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:51:08 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC03_RememberMe My Test Started---------------
+20250808 00:51:08 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:51:08 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 00:51:08 INFO  [main] Base.BasePage BasePage.java66 - rememberMe CheckBox was enabled and clicked
+20250808 00:51:13 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250808 00:51:16 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC03_RememberMe My Test Failed------------------
+20250808 00:51:18 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250808 00:51:21 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:51:24 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:51:31 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC04A_ForgetPassword My Test Started---------------
+20250808 00:51:35 INFO  [main] Base.BasePage BasePage.java66 - forgetPassword_Link was enabled and clicked
+20250808 00:51:38 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  remember_UserName
+20250808 00:51:39 INFO  [main] Base.BasePage BasePage.java66 - Remember_ContinueButton was enabled and clicked
+20250808 00:51:42 INFO  [main] Base.BasePage BasePage.java94 - Text : Check Your Email
+20250808 00:51:42 INFO  [main] Base.BasePage BasePage.java142 - Checking validation...
+20250808 00:51:42 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC04A_ForgetPassword My Test Success------------
+20250808 00:51:44 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:51:46 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 00:51:53 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC04B_ValidateLoginErrorMesg My Test Started---------------
+20250808 00:51:53 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 00:51:53 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 00:51:53 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250808 00:51:56 INFO  [main] Base.BasePage BasePage.java94 - Text : Error: Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20250808 00:51:56 INFO  [main] Base.BasePage BasePage.java142 - Checking validation...
+20250808 00:51:56 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC04B_ValidateLoginErrorMesg My Test Success------------
+20250808 00:51:58 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 00:51:58 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250808 13:07:03 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250808 13:07:12 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250808 13:07:19 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC05 My Test Started---------------
+20250808 13:07:20 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250808 13:07:20 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250808 13:07:21 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250808 13:07:25 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250808 13:07:28 INFO  [main] Base.BasePage BasePage.java153 - Checking List validation...
+20250808 13:07:28 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC05 My Test Success------------
+20250808 13:07:31 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250808 13:07:31 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 13:16:52 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 13:17:07 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 13:17:14 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 13:17:15 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 13:17:15 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 13:17:20 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 13:17:50 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 13:17:50 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 13:17:50 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 13:17:55 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 13:18:03 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 13:18:10 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 13:18:10 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 13:18:11 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 13:18:16 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 13:20:05 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 13:20:10 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 13:20:17 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 13:20:18 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 13:20:18 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 13:20:20 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 13:20:53 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 13:21:13 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 13:21:16 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 13:21:16 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 13:22:35 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 13:22:39 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 13:22:46 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 13:22:47 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 13:22:47 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 13:23:02 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 13:23:13 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 13:23:21 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 13:23:24 INFO  [main] Base.BasePage BasePage.java66 - Personal in MySettings was enabled and clicked
+20250809 13:23:31 INFO  [main] Base.BasePage BasePage.java66 - Login history was enabled and clicked
+20250809 13:23:36 INFO  [main] Base.BasePage BasePage.java66 - download History was enabled and clicked
+20250809 13:23:39 INFO  [main] Base.BasePage BasePage.java66 - DisplayAndLayout in MySettings was enabled and clicked
+20250809 13:23:43 INFO  [main] Base.BasePage BasePage.java66 -  CustomizeMyTab in DisplayAndLayout  was enabled and clicked
+20250809 13:24:03 INFO  [main] Base.BasePage BasePage.java125 - Salesforce Chatter is selected from dropdown menu
+20250809 13:24:03 INFO  [main] Base.BasePage BasePage.java125 - Reports is selected from dropdown menu
+20250809 13:24:03 INFO  [main] Base.BasePage BasePage.java66 - add Button was enabled and clicked
+20250809 13:24:13 INFO  [main] Base.BasePage BasePage.java66 - Save Button was enabled and clicked
+20250809 13:24:17 INFO  [main] Base.BasePage BasePage.java66 - MenuDropdown in HomePage was enabled and clicked
+20250809 13:24:27 INFO  [main] Base.BasePage BasePage.java66 - Salesforce Chatter was enabled and clicked
+20250809 13:24:31 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 13:24:34 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 13:24:58 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 13:24:58 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 13:25:00 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 13:25:00 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 13:29:16 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 13:29:19 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 13:29:26 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 13:29:27 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 13:29:27 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 13:30:07 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 13:30:54 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 13:30:57 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 13:31:04 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 13:31:05 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 13:31:05 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 13:31:05 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 13:31:32 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 13:31:38 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 13:31:41 INFO  [main] Base.BasePage BasePage.java66 - Personal in MySettings was enabled and clicked
+20250809 13:31:45 INFO  [main] Base.BasePage BasePage.java66 - Login history was enabled and clicked
+20250809 13:31:48 INFO  [main] Base.BasePage BasePage.java66 - download History was enabled and clicked
+20250809 13:31:51 INFO  [main] Base.BasePage BasePage.java66 - DisplayAndLayout in MySettings was enabled and clicked
+20250809 13:31:55 INFO  [main] Base.BasePage BasePage.java66 -  CustomizeMyTab in DisplayAndLayout  was enabled and clicked
+20250809 13:31:58 INFO  [main] Base.BasePage BasePage.java125 - Salesforce Chatter is selected from dropdown menu
+20250809 13:31:59 INFO  [main] Base.BasePage BasePage.java125 - Reports is selected from dropdown menu
+20250809 13:31:59 INFO  [main] Base.BasePage BasePage.java66 - add Button was enabled and clicked
+20250809 13:32:02 INFO  [main] Base.BasePage BasePage.java66 - Save Button was enabled and clicked
+20250809 13:32:05 INFO  [main] Base.BasePage BasePage.java66 - MenuDropdown in HomePage was enabled and clicked
+20250809 13:32:16 INFO  [main] Base.BasePage BasePage.java66 - Salesforce Chatter was enabled and clicked
+20250809 13:32:19 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 13:32:23 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 13:32:47 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 13:32:47 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 13:32:50 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 13:32:50 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 13:35:59 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 13:36:01 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 13:36:08 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 13:36:09 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 13:36:09 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 13:36:18 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 13:36:38 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 13:36:42 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 13:37:05 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 13:37:06 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 13:37:08 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 13:37:08 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 14:37:02 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 14:37:07 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 14:37:14 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 14:37:14 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 14:37:15 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 14:37:41 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 14:37:44 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 14:37:52 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 14:37:55 INFO  [main] Base.BasePage BasePage.java66 - Personal in MySettings was enabled and clicked
+20250809 14:37:59 INFO  [main] Base.BasePage BasePage.java66 - Login history was enabled and clicked
+20250809 14:38:08 INFO  [main] Base.BasePage BasePage.java66 - download History was enabled and clicked
+20250809 14:38:11 INFO  [main] Base.BasePage BasePage.java66 - DisplayAndLayout in MySettings was enabled and clicked
+20250809 14:38:23 INFO  [main] Base.BasePage BasePage.java66 -  CustomizeMyTab in DisplayAndLayout  was enabled and clicked
+20250809 14:38:26 INFO  [main] Base.BasePage BasePage.java125 - Salesforce Chatter is selected from dropdown menu
+20250809 14:38:26 INFO  [main] Base.BasePage BasePage.java125 - Reports is selected from dropdown menu
+20250809 14:38:27 INFO  [main] Base.BasePage BasePage.java66 - add Button was enabled and clicked
+20250809 14:38:41 INFO  [main] Base.BasePage BasePage.java66 - Save Button was enabled and clicked
+20250809 14:38:44 INFO  [main] Base.BasePage BasePage.java66 - MenuDropdown in HomePage was enabled and clicked
+20250809 14:38:48 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 14:38:52 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 14:38:55 INFO  [main] Base.BasePage BasePage.java66 - emailLink in MySettings was enabled and clicked
+20250809 14:38:59 INFO  [main] Base.BasePage BasePage.java66 - MyEmailSetting in email link was enabled and clicked
+20250809 14:39:02 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  email Name
+20250809 14:39:03 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  emailID
+20250809 14:39:03 INFO  [main] Base.BasePage BasePage.java66 - Auto_BCC was enabled and clicked
+20250809 14:39:06 INFO  [main] Base.BasePage BasePage.java66 - save_EmailSetting was enabled and clicked
+20250809 14:39:09 INFO  [main] Base.BasePage BasePage.java135 - Checking validation...
+20250809 14:39:09 INFO  [main] Base.BasePage BasePage.java66 - Calender was enabled and clicked
+20250809 14:39:13 INFO  [main] Base.BasePage BasePage.java66 - Activity reminder was enabled and clicked
+20250809 14:39:16 INFO  [main] Base.BasePage BasePage.java66 - test Reminder button was enabled and clicked
+20250809 14:39:39 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 14:39:40 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 14:39:42 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 14:39:42 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 14:43:53 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 14:43:55 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 14:44:02 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 14:44:03 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 14:44:03 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 14:44:04 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 14:44:39 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 14:44:43 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 14:44:46 INFO  [main] Base.BasePage BasePage.java66 - Personal in MySettings was enabled and clicked
+20250809 14:44:52 INFO  [main] Base.BasePage BasePage.java66 - Login history was enabled and clicked
+20250809 14:44:56 INFO  [main] Base.BasePage BasePage.java66 - download History was enabled and clicked
+20250809 14:44:59 INFO  [main] Base.BasePage BasePage.java66 - DisplayAndLayout in MySettings was enabled and clicked
+20250809 14:45:09 INFO  [main] Base.BasePage BasePage.java66 -  CustomizeMyTab in DisplayAndLayout  was enabled and clicked
+20250809 14:45:22 INFO  [main] Base.BasePage BasePage.java125 - Salesforce Chatter is selected from dropdown menu
+20250809 14:45:22 INFO  [main] Base.BasePage BasePage.java125 - Reports is selected from dropdown menu
+20250809 14:45:23 INFO  [main] Base.BasePage BasePage.java66 - add Button was enabled and clicked
+20250809 14:45:27 INFO  [main] Base.BasePage BasePage.java66 - Save Button was enabled and clicked
+20250809 14:45:30 INFO  [main] Base.BasePage BasePage.java66 - MenuDropdown in HomePage was enabled and clicked
+20250809 14:45:35 INFO  [main] Base.BasePage BasePage.java66 - Salesforce Chatter was enabled and clicked
+20250809 14:45:38 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 14:45:42 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 14:45:45 INFO  [main] Base.BasePage BasePage.java66 - emailLink in MySettings was enabled and clicked
+20250809 14:45:49 INFO  [main] Base.BasePage BasePage.java66 - MyEmailSetting in email link was enabled and clicked
+20250809 14:45:53 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  email Name
+20250809 14:45:53 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  emailID
+20250809 14:45:53 INFO  [main] Base.BasePage BasePage.java66 - Auto_BCC was enabled and clicked
+20250809 14:45:57 INFO  [main] Base.BasePage BasePage.java66 - save_EmailSetting was enabled and clicked
+20250809 14:46:01 INFO  [main] Base.BasePage BasePage.java135 - Checking validation...
+20250809 14:46:01 INFO  [main] Base.BasePage BasePage.java66 - Calender was enabled and clicked
+20250809 14:46:04 INFO  [main] Base.BasePage BasePage.java66 - Activity reminder was enabled and clicked
+20250809 14:46:08 INFO  [main] Base.BasePage BasePage.java66 - test Reminder button was enabled and clicked
+20250809 14:46:31 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 14:46:31 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 14:46:33 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 14:46:33 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 14:55:27 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 14:55:30 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 14:55:37 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 14:55:38 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 14:55:38 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 14:55:38 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 14:56:27 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 14:56:59 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 14:57:02 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 14:57:20 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 14:57:23 INFO  [main] Base.BasePage BasePage.java66 - Calender was enabled and clicked
+20250809 14:57:30 INFO  [main] Base.BasePage BasePage.java66 - Activity reminder was enabled and clicked
+20250809 14:57:33 INFO  [main] Base.BasePage BasePage.java66 - test Reminder button was enabled and clicked
+20250809 14:57:56 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 14:57:56 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 14:57:58 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 14:57:58 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 15:05:35 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 15:05:38 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 15:05:45 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 15:05:45 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 15:05:45 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 15:05:45 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 15:06:18 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:06:22 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:06:25 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:06:29 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:06:32 INFO  [main] Base.BasePage BasePage.java66 - Calender was enabled and clicked
+20250809 15:06:38 INFO  [main] Base.BasePage BasePage.java66 - Activity reminder was enabled and clicked
+20250809 15:06:41 INFO  [main] Base.BasePage BasePage.java66 - test Reminder button was enabled and clicked
+20250809 15:06:53 INFO  [main] Base.BasePage BasePage.java66 - Activity reminder was enabled and clicked
+20250809 15:07:18 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - TC07 My Test Failed------------------
+20250809 15:07:18 INFO  [main] Base.BaseTest BaseTest.java76 - screen captured
+20250809 15:07:20 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 15:07:20 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 15:12:17 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 15:12:23 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 15:12:30 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 15:12:30 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 15:12:30 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 15:12:57 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 15:13:01 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:13:08 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:13:11 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:13:16 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:13:19 INFO  [main] Base.BasePage BasePage.java66 - Calender was enabled and clicked
+20250809 15:13:23 INFO  [main] Base.BasePage BasePage.java66 - Activity reminder was enabled and clicked
+20250809 15:13:26 INFO  [main] Base.BasePage BasePage.java66 - test Reminder button was enabled and clicked
+20250809 15:13:29 INFO  [main] Base.BasePage BasePage.java66 - Dismiss_all button was enabled and clicked
+20250809 15:13:32 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:13:37 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:13:40 INFO  [main] Base.BasePage BasePage.java66 - DisplayAndLayout in MySettings was enabled and clicked
+20250809 15:13:46 INFO  [main] Base.BasePage BasePage.java66 -  CustomizeMyTab in DisplayAndLayout  was enabled and clicked
+20250809 15:13:49 INFO  [main] Base.BasePage BasePage.java125 - Salesforce Chatter is selected from dropdown menu
+20250809 15:13:49 INFO  [main] Base.BasePage BasePage.java66 - reports Deselect was enabled and clicked
+20250809 15:13:52 INFO  [main] Base.BasePage BasePage.java66 - remove Button was enabled and clicked
+20250809 15:13:57 INFO  [main] Base.BasePage BasePage.java66 - save Deselect Button was enabled and clicked
+20250809 15:14:00 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC07 My Test Success------------
+20250809 15:14:02 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 15:14:02 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
+20250809 15:18:41 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Default test Start of my TC----------
+20250809 15:18:45 INFO  [main] Base.BaseTest BaseTest.java64 - https://login.salesforce.com/ is entered
+20250809 15:18:52 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - TC07 My Test Started---------------
+20250809 15:18:52 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  Username Filed
+20250809 15:18:52 INFO  [main] Base.BasePage BasePage.java40 - Data entered in the  password Filed
+20250809 15:18:53 INFO  [main] Base.BasePage BasePage.java66 - Login button was enabled and clicked
+20250809 15:19:32 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:19:36 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:19:39 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:19:46 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:19:49 INFO  [main] Base.BasePage BasePage.java66 - Calender was enabled and clicked
+20250809 15:19:57 INFO  [main] Base.BasePage BasePage.java66 - Activity reminder was enabled and clicked
+20250809 15:20:00 INFO  [main] Base.BasePage BasePage.java66 - test Reminder button was enabled and clicked
+20250809 15:20:17 INFO  [main] Base.BasePage BasePage.java66 - Dismiss_all button was enabled and clicked
+20250809 15:20:20 INFO  [main] Base.BasePage BasePage.java66 - UserMenuDropdown arrow was enabled and clicked
+20250809 15:20:28 INFO  [main] Base.BasePage BasePage.java66 - My settings in Uermenu dropdown was enabled and clicked
+20250809 15:20:32 INFO  [main] Base.BasePage BasePage.java66 - DisplayAndLayout in MySettings was enabled and clicked
+20250809 15:20:59 INFO  [main] Base.BasePage BasePage.java66 -  CustomizeMyTab in DisplayAndLayout  was enabled and clicked
+20250809 15:21:03 INFO  [main] Base.BasePage BasePage.java125 - Salesforce Chatter is selected from dropdown menu
+20250809 15:21:03 INFO  [main] Base.BasePage BasePage.java125 - Reports is selected from dropdown menu
+20250809 15:21:03 INFO  [main] Base.BasePage BasePage.java66 - remove Button was enabled and clicked
+20250809 15:21:20 INFO  [main] Base.BasePage BasePage.java66 - save Deselect Button was enabled and clicked
+20250809 15:21:23 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - TC07 My Test Success------------
+20250809 15:21:25 INFO  [main] Base.BaseTest BaseTest.java108 - browser get closed successfully..
+20250809 15:21:25 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Default test End of my TC--------------
