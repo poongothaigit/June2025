@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="825" started-at="2025-09-01T15:36:14 PDT" finished-at="2025-09-01T15:36:15 PDT">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@954b04f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="825" started-at="2025-09-01T15:36:14 PDT" finished-at="2025-09-01T15:36:15 PDT">
+      <class name="com.CucumberSFWithPOMUpgrade.Runner.LoginRunner">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@954b04f]" name="setUpClass" is-config="true" duration-ms="549" started-at="2025-09-01T15:36:14 PDT" finished-at="2025-09-01T15:36:14 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6e35bc3d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@954b04f]" name="runScenario" duration-ms="102" started-at="2025-09-01T15:36:14 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-01T15:36:15 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC01 unsuccessful login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["implementing login functionalities"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@954b04f]" name="runScenario" duration-ms="13" started-at="2025-09-01T15:36:15 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-01T15:36:15 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC02 successful login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["implementing login functionalities"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@954b04f]" name="runScenario" duration-ms="74" started-at="2025-09-01T15:36:15 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-01T15:36:15 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC03 RememberMe check box"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["implementing login functionalities"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="io.cucumber.testng.UndefinedStepException">
+            <message>
+              <![CDATA[The step 'i click remember me check box' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("i click remember me check box")
+public void i_click_remember_me_check_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("i click usermenu dropdown")
+public void i_click_usermenu_dropdown() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("i click logout")
+public void i_click_logout() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("i validate username remember validation")
+public void i_validate_username_remember_validation() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[io.cucumber.testng.UndefinedStepException: The step 'i click remember me check box' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("i click remember me check box")
+public void i_click_remember_me_check_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("i click usermenu dropdown")
+public void i_click_usermenu_dropdown() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("i click logout")
+public void i_click_logout() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("i validate username remember validation")
+public void i_validate_username_remember_validation() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+at ✽.i click remember me check box(file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:25)
+]]>
+            </full-stacktrace>
+          </exception> <!-- io.cucumber.testng.UndefinedStepException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@954b04f]" name="tearDownClass" is-config="true" duration-ms="54" started-at="2025-09-01T15:36:15 PDT" finished-at="2025-09-01T15:36:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.CucumberSFWithPOMUpgrade.Runner.LoginRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

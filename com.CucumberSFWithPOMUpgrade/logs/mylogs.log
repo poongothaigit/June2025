@@ -1,0 +1,359 @@
+20250901 08:33:12 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java113 - browser get closed successfully..
+20250901 08:34:33 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 08:40:49 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 08:40:53 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 08:40:53 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 08:40:54 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 08:40:57 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 08:40:57 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 08:40:58 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 08:42:31 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 08:42:36 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 08:42:36 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 08:42:36 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 08:42:39 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 08:42:39 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 08:42:40 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 08:48:02 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 08:48:07 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 08:48:07 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 08:48:08 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 08:48:11 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 08:48:11 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 08:48:12 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 08:52:37 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 08:52:41 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 08:52:41 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 08:52:42 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 08:52:45 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 08:52:45 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 08:52:46 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 08:56:50 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 08:57:15 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 08:57:20 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 08:57:20 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 08:57:20 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 08:57:23 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 08:57:23 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 08:57:24 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 09:17:38 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 09:17:43 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 09:17:43 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 09:17:44 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 09:17:47 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 09:17:47 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 09:17:48 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 14:50:38 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java107 - https://login.salesforce.com/ is entered
+20250901 14:50:43 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 14:50:43 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 14:50:43 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 14:50:46 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 14:50:46 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 14:50:47 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java115 - browser get closed successfully..
+20250901 15:05:44 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java113 - https://login.salesforce.com/ is entered
+20250901 15:05:48 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:05:49 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:05:49 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:05:52 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:05:52 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 15:05:53 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java121 - browser get closed successfully..
+20250901 15:11:34 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java113 - https://login.salesforce.com/ is entered
+20250901 15:11:39 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:11:39 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:11:39 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:11:42 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:11:42 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 15:11:43 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java121 - browser get closed successfully..
+20250901 15:21:03 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 15:21:04 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:21:07 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java114 - https://login.salesforce.com/ is entered
+20250901 15:21:11 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:21:11 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:21:13 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:21:16 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:21:16 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 15:21:17 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java122 - browser get closed successfully..
+20250901 15:21:17 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:21:17 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250901 15:30:13 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:30:17 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:30:17 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:30:19 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:30:22 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:30:22 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 15:30:23 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:30:29 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:30:33 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:30:33 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 15:30:33 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:30:36 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:30:39 INFO  [main] Base.BasePage BasePage.java85 - Title: Salesforce - Developer Edition
+20250901 15:30:40 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:31:06 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 15:31:06 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:31:06 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:31:06 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:31:06 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:31:06 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250901 15:31:38 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 15:31:39 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:31:41 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:31:46 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:31:46 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:31:47 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:31:50 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:31:50 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 15:31:51 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:31:51 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:31:51 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:31:53 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:31:57 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:31:57 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 15:31:57 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:31:57 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:33:46 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 15:33:46 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:33:49 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:33:54 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:33:54 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:33:54 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:33:57 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:33:57 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java34 - password error message validated succesfully!!!
+20250901 15:33:58 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:33:58 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:33:58 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:34:00 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:34:04 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:34:04 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 15:34:04 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:34:08 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:34:11 INFO  [main] Base.BasePage BasePage.java85 - Title: Salesforce - Developer Edition
+20250901 15:34:12 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:34:12 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:34:12 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250901 15:45:47 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 15:45:47 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:45:50 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:45:55 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:45:55 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:45:55 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:45:58 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:45:58 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 15:45:59 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:45:59 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:45:59 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:46:02 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:46:06 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:46:07 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 15:46:07 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:46:08 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:46:11 INFO  [main] Base.BasePage BasePage.java85 - Title: Salesforce - Developer Edition
+20250901 15:46:11 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:46:11 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:46:11 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:46:15 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:46:19 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:46:19 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 15:46:20 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 15:46:23 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:46:25 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:46:28 INFO  [main] Base.BasePage BasePage.java69 - UserMenuDropdown arrow was enabled and clicked
+20250901 15:46:32 INFO  [main] Base.BasePage BasePage.java69 - logout button was enabled and clicked
+20250901 15:46:35 INFO  [main] Base.BasePage BasePage.java56 - userName is displayed
+20250901 15:46:36 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:46:36 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:46:36 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250901 15:46:53 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 15:46:54 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:46:58 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:47:03 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:47:03 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:47:05 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:47:08 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 15:47:08 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 15:47:09 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:47:09 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:47:09 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:47:11 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:47:16 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:47:16 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 15:47:16 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:47:17 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:47:20 INFO  [main] Base.BasePage BasePage.java85 - Title: Salesforce - Developer Edition
+20250901 15:47:21 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:47:21 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:47:21 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 15:47:23 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 15:47:27 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 15:47:27 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 15:47:27 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 15:47:30 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 15:47:30 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 15:47:36 INFO  [main] Base.BasePage BasePage.java69 - UserMenuDropdown arrow was enabled and clicked
+20250901 15:47:39 INFO  [main] Base.BasePage BasePage.java69 - logout button was enabled and clicked
+20250901 15:47:42 INFO  [main] Base.BasePage BasePage.java56 - userName is displayed
+20250901 15:47:43 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 15:47:43 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 15:47:43 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250901 16:00:00 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:00:04 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:00:04 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:00:05 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:00:08 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 16:00:08 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 16:00:08 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:00:10 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:00:15 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:00:15 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:00:15 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:00:17 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:00:20 INFO  [main] Base.BasePage BasePage.java85 - Title: Salesforce - Developer Edition
+20250901 16:00:21 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:00:24 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:00:28 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:00:28 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:00:28 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 16:00:31 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:00:34 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:00:38 INFO  [main] Base.BasePage BasePage.java69 - UserMenuDropdown arrow was enabled and clicked
+20250901 16:00:41 INFO  [main] Base.BasePage BasePage.java69 - logout button was enabled and clicked
+20250901 16:00:44 INFO  [main] Base.BasePage BasePage.java56 - userName is displayed
+20250901 16:00:45 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:04:46 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:04:50 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:04:50 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:04:51 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:04:54 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 16:04:54 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 16:04:55 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:04:58 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:05:02 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:05:02 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:05:02 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:05:03 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:05:06 INFO  [main] Base.BasePage BasePage.java85 - Title: Salesforce - Developer Edition
+20250901 16:05:07 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:05:10 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:05:15 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:05:15 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:05:15 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 16:05:18 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:05:20 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:05:24 INFO  [main] Base.BasePage BasePage.java69 - UserMenuDropdown arrow was enabled and clicked
+20250901 16:05:28 INFO  [main] Base.BasePage BasePage.java69 - logout button was enabled and clicked
+20250901 16:05:46 INFO  [main] Base.BasePage BasePage.java56 - userName is displayed
+20250901 16:05:48 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:16:20 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:16:24 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:16:24 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:16:25 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:16:29 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 16:16:29 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 16:16:31 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:16:33 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:16:38 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:16:38 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:16:38 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:18:04 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:18:09 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:18:09 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:18:09 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:18:12 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 16:18:12 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 16:18:13 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:18:17 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:18:22 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:18:22 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:18:22 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:18:24 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:18:27 INFO  [main] Base.BasePage BasePage.java85 - Title: Salesforce - Developer Edition
+20250901 16:18:28 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:18:31 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:18:35 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:18:36 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:18:37 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 16:18:40 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:18:42 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:18:45 INFO  [main] Base.BasePage BasePage.java69 - UserMenuDropdown arrow was enabled and clicked
+20250901 16:18:48 INFO  [main] Base.BasePage BasePage.java69 - logout button was enabled and clicked
+20250901 16:18:51 INFO  [main] Base.BasePage BasePage.java56 - userName is displayed
+20250901 16:18:52 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:27:56 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:28:00 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:28:00 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:28:01 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:28:04 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 16:28:04 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 16:28:05 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:28:06 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:28:11 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:28:11 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:28:11 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:28:12 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:28:15 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:28:16 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:28:19 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:28:24 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:28:24 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:28:24 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 16:28:27 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:28:27 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:29:01 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:30:43 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 16:30:43 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 16:30:46 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:30:52 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:30:52 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:30:53 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:30:56 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 16:30:56 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 16:30:57 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:30:57 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 16:30:57 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 16:30:59 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:31:03 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:31:03 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:31:04 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:31:04 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:31:07 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:31:08 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:31:08 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - runScenario My Test Failed------------------
+20250901 16:31:08 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 16:31:10 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:31:15 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:31:15 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:31:15 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 16:31:18 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:31:18 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:31:53 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:31:53 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - runScenario My Test Failed------------------
+20250901 16:31:53 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------
+20250901 16:38:17 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java49 - Test Start of my TC----------
+20250901 16:38:18 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 16:38:21 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:38:25 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:38:25 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:38:26 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:38:29 INFO  [main] Base.BasePage BasePage.java97 - Text : Error: Please enter your password.
+20250901 16:38:29 INFO  [main] StepDefinition.LoginStepDefinition LoginStepDefinition.java35 - password error message validated succesfully!!!
+20250901 16:38:29 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:38:29 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java27 - runScenario My Test Success------------
+20250901 16:38:29 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 16:38:32 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:38:36 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:38:36 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:38:36 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:38:36 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:38:40 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:38:41 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:38:41 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - runScenario My Test Failed------------------
+20250901 16:38:41 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java21 - runScenario My Test Started---------------
+20250901 16:38:44 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java116 - https://login.salesforce.com/ is entered
+20250901 16:38:48 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  Username Filed
+20250901 16:38:48 INFO  [main] Base.BasePage BasePage.java43 - Data entered in the  password Filed
+20250901 16:38:49 INFO  [main] Base.BasePage BasePage.java69 - rememberMe CheckBox was enabled and clicked
+20250901 16:38:52 INFO  [main] Base.BasePage BasePage.java85 - Title: Login | Salesforce
+20250901 16:38:52 INFO  [main] Base.BasePage BasePage.java69 - Login button was enabled and clicked
+20250901 16:39:26 INFO  [main] StepDefinition.BaseStepDefinition BaseStepDefinition.java124 - browser get closed successfully..
+20250901 16:39:26 ERROR [main] Utility.SF_ListenerUtility SF_ListenerUtility.java33 - runScenario My Test Failed------------------
+20250901 16:39:26 INFO  [main] Utility.SF_ListenerUtility SF_ListenerUtility.java55 - Test End of my TC--------------

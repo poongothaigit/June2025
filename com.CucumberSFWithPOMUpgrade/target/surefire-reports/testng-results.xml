@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69102" started-at="2025-09-01T16:38:17 PDT" finished-at="2025-09-01T16:39:26 PDT">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@4671e53b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="69102" started-at="2025-09-01T16:38:17 PDT" finished-at="2025-09-01T16:39:26 PDT">
+      <class name="com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition">
+        <test-method status="PASS" signature="after_all()[pri:0, instance:com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition@6fd83fc1]" name="after_all" is-config="true" duration-ms="822" started-at="2025-09-01T16:39:26 PDT" finished-at="2025-09-01T16:39:27 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_all -->
+      </class> <!-- com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition -->
+      <class name="com.CucumberSFWithPOMUpgrade.Runner.LoginRunner">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@4671e53b]" name="setUpClass" is-config="true" duration-ms="508" started-at="2025-09-01T16:38:17 PDT" finished-at="2025-09-01T16:38:18 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@70997a94]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@4671e53b]" name="runScenario" duration-ms="11850" started-at="2025-09-01T16:38:18 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-01T16:38:29 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC01 unsuccessful login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["implementing login functionalities"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@4671e53b]" name="runScenario" duration-ms="11038" started-at="2025-09-01T16:38:29 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-01T16:38:41 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC02 successful login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["implementing login functionalities"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Both titles are not equals, validation success!!! did not expect [Login | Salesforce] but found [Login | Salesforce]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Both titles are not equals, validation success!!! did not expect [Login | Salesforce] but found [Login | Salesforce]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failEquals(Assert.java:1417)
+at org.testng.Assert.assertNotEqualsImpl(Assert.java:156)
+at org.testng.Assert.assertNotEquals(Assert.java:1986)
+at com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_should_be_able_to_see_homepage(BaseStepDefinition.java:171)
+at ✽.i should be able to see homepage(file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:17)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@4671e53b]" name="runScenario" duration-ms="45632" started-at="2025-09-01T16:38:41 PDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-09-01T16:39:26 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC03 RememberMe check box"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["implementing login functionalities"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: userNavLabel' (tried for 30 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: userNavLabel' (tried for 30 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.CucumberSFWithPOMUpgrade.Pages.Base.BasePage.WaitForVisibility(BasePage.java:163)
+at com.CucumberSFWithPOMUpgrade.Pages.HomePage.clickUserMenuDropdown(HomePage.java:67)
+at com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_usermenu_dropdown(BaseStepDefinition.java:176)
+at ✽.i click usermenu dropdown(file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:28)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNavLabel"}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-U68A7E0', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\poong\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1de98be861f34f3fc6c6089297f02a82
+*** Element info: {Using=id, value=userNavLabel}
+at sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy35.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 4 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.CucumberSFWithPOMUpgrade.Runner.LoginRunner@4671e53b]" name="tearDownClass" is-config="true" duration-ms="37" started-at="2025-09-01T16:39:26 PDT" finished-at="2025-09-01T16:39:26 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.CucumberSFWithPOMUpgrade.Runner.LoginRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

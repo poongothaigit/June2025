@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="70.829" tests="3" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\poong\.cache\selenium\chromedriver\win64\139.0.7258.154\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\poong\eclipse-workspace2025\com.CucumberSFWithPOMUpgrade\target\test-classes;C:\Users\poong\eclipse-workspace2025\com.CucumberSFWithPOMUpgrade\target\classes;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\poong\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\poong\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\poong\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\poong\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\poong\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\poong\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\poong\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\poong\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\poong\.m2\repository\io\github\bonigarcia\webdrivermanager\5.9.2\webdrivermanager-5.9.2.jar;C:\Users\poong\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\poong\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java\3.4.0\docker-java-3.4.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-core\3.4.0\docker-java-core-3.4.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-api\3.4.0\docker-java-api-3.4.0.jar;C:\Users\poong\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.4.0\docker-java-transport-httpclient5-3.4.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-transport\3.4.0\docker-java-transport-3.4.0.jar;C:\Users\poong\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\poong\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar;C:\Users\poong\.m2\repository\commons-codec\commons-codec\1.17.0\commons-codec-1.17.0.jar;C:\Users\poong\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\poong\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\poong\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\poong\.m2\repository\org\testng\testng\7.5.1\testng-7.5.1.jar;C:\Users\poong\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\poong\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\poong\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\poong\.m2\repository\org\apache\poi\poi-ooxml\5.4.0\poi-ooxml-5.4.0.jar;C:\Users\poong\.m2\repository\org\apache\poi\poi\5.4.0\poi-5.4.0.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\poong\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\poong\.m2\repository\org\apache\poi\poi-ooxml-lite\5.4.0\poi-ooxml-lite-5.4.0.jar;C:\Users\poong\.m2\repository\org\apache\xmlbeans\xmlbeans\5.3.0\xmlbeans-5.3.0.jar;C:\Users\poong\.m2\repository\commons-io\commons-io\2.18.0\commons-io-2.18.0.jar;C:\Users\poong\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\poong\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\poong\.m2\repository\org\apache\logging\log4j\log4j-core\2.25.1\log4j-core-2.25.1.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-java\7.27.0\cucumber-java-7.27.0.jar;C:\Users\poong\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-core\7.27.0\cucumber-core-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-gherkin\7.27.0\cucumber-gherkin-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.27.0\cucumber-gherkin-messages-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\gherkin\33.1.0\gherkin-33.1.0.jar;C:\Users\poong\.m2\repository\io\cucumber\messages\28.1.0\messages-28.1.0.jar;C:\Users\poong\.m2\repository\io\cucumber\pretty-formatter\2.0.1\pretty-formatter-2.0.1.jar;C:\Users\poong\.m2\repository\io\cucumber\query\13.6.0\query-13.6.0.jar;C:\Users\poong\.m2\repository\io\cucumber\testng-xml-formatter\0.5.0\testng-xml-formatter-0.5.0.jar;C:\Users\poong\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\poong\.m2\repository\io\cucumber\datatable\7.27.0\datatable-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-plugin\7.27.0\cucumber-plugin-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\docstring\7.27.0\docstring-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\html-formatter\21.13.0\html-formatter-21.13.0.jar;C:\Users\poong\.m2\repository\io\cucumber\junit-xml-formatter\0.8.0\junit-xml-formatter-0.8.0.jar;C:\Users\poong\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-testng\7.27.0\cucumber-testng-7.27.0.jar;C:\Users\poong\.m2\repository\net\masterthought\cucumber-reporting\4.11.2\cucumber-reporting-4.11.2.jar;C:\Users\poong\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.9.3\jackson-databind-2.9.9.3.jar;C:\Users\poong\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\poong\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.9\jackson-core-2.9.9.jar;C:\Users\poong\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar;C:\Users\poong\.m2\repository\commons-lang\commons-lang\2.4\commons-lang-2.4.jar;C:\Users\poong\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\poong\.m2\repository\velocity-tools\velocity-tools\1.4\velocity-tools-1.4.jar;C:\Users\poong\.m2\repository\joda-time\joda-time\2.10.2\joda-time-2.10.2.jar;C:\Users\poong\.m2\repository\org\codehaus\plexus\plexus-utils\3.2.0\plexus-utils-3.2.0.jar;C:\Users\poong\.m2\repository\org\jsoup\jsoup\1.12.1\jsoup-1.12.1.jar;C:\Users\poong\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20190610.1\owasp-java-html-sanitizer-20190610.1.jar;C:\Users\poong\.m2\repository\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar;C:\Users\poong\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\poong\AppData\Local\Temp\surefire8095622808017528545\surefirebooter-20250901163816375_3.jar C:\Users\poong\AppData\Local\Temp\surefire8095622808017528545 2025-09-01T16-38-16_065-jvmRun1 surefire-20250901163816375_1tmp surefire_0-20250901163816375_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\poong\eclipse-workspace2025\com.CucumberSFWithPOMUpgrade\target\test-classes;C:\Users\poong\eclipse-workspace2025\com.CucumberSFWithPOMUpgrade\target\classes;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\poong\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\poong\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\poong\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\poong\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\poong\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\poong\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\poong\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\poong\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\poong\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\poong\.m2\repository\io\github\bonigarcia\webdrivermanager\5.9.2\webdrivermanager-5.9.2.jar;C:\Users\poong\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\poong\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java\3.4.0\docker-java-3.4.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-core\3.4.0\docker-java-core-3.4.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-api\3.4.0\docker-java-api-3.4.0.jar;C:\Users\poong\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.4.0\docker-java-transport-httpclient5-3.4.0.jar;C:\Users\poong\.m2\repository\com\github\docker-java\docker-java-transport\3.4.0\docker-java-transport-3.4.0.jar;C:\Users\poong\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\poong\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar;C:\Users\poong\.m2\repository\commons-codec\commons-codec\1.17.0\commons-codec-1.17.0.jar;C:\Users\poong\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\poong\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\poong\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\poong\.m2\repository\org\testng\testng\7.5.1\testng-7.5.1.jar;C:\Users\poong\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\poong\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\poong\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\poong\.m2\repository\org\apache\poi\poi-ooxml\5.4.0\poi-ooxml-5.4.0.jar;C:\Users\poong\.m2\repository\org\apache\poi\poi\5.4.0\poi-5.4.0.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\poong\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\poong\.m2\repository\org\apache\poi\poi-ooxml-lite\5.4.0\poi-ooxml-lite-5.4.0.jar;C:\Users\poong\.m2\repository\org\apache\xmlbeans\xmlbeans\5.3.0\xmlbeans-5.3.0.jar;C:\Users\poong\.m2\repository\commons-io\commons-io\2.18.0\commons-io-2.18.0.jar;C:\Users\poong\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\poong\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar;C:\Users\poong\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\poong\.m2\repository\org\apache\logging\log4j\log4j-core\2.25.1\log4j-core-2.25.1.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-java\7.27.0\cucumber-java-7.27.0.jar;C:\Users\poong\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-core\7.27.0\cucumber-core-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-gherkin\7.27.0\cucumber-gherkin-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.27.0\cucumber-gherkin-messages-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\gherkin\33.1.0\gherkin-33.1.0.jar;C:\Users\poong\.m2\repository\io\cucumber\messages\28.1.0\messages-28.1.0.jar;C:\Users\poong\.m2\repository\io\cucumber\pretty-formatter\2.0.1\pretty-formatter-2.0.1.jar;C:\Users\poong\.m2\repository\io\cucumber\query\13.6.0\query-13.6.0.jar;C:\Users\poong\.m2\repository\io\cucumber\testng-xml-formatter\0.5.0\testng-xml-formatter-0.5.0.jar;C:\Users\poong\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\poong\.m2\repository\io\cucumber\datatable\7.27.0\datatable-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-plugin\7.27.0\cucumber-plugin-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\docstring\7.27.0\docstring-7.27.0.jar;C:\Users\poong\.m2\repository\io\cucumber\html-formatter\21.13.0\html-formatter-21.13.0.jar;C:\Users\poong\.m2\repository\io\cucumber\junit-xml-formatter\0.8.0\junit-xml-formatter-0.8.0.jar;C:\Users\poong\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\poong\.m2\repository\io\cucumber\cucumber-testng\7.27.0\cucumber-testng-7.27.0.jar;C:\Users\poong\.m2\repository\net\masterthought\cucumber-reporting\4.11.2\cucumber-reporting-4.11.2.jar;C:\Users\poong\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.9.3\jackson-databind-2.9.9.3.jar;C:\Users\poong\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\poong\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.9\jackson-core-2.9.9.jar;C:\Users\poong\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar;C:\Users\poong\.m2\repository\commons-lang\commons-lang\2.4\commons-lang-2.4.jar;C:\Users\poong\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\poong\.m2\repository\velocity-tools\velocity-tools\1.4\velocity-tools-1.4.jar;C:\Users\poong\.m2\repository\joda-time\joda-time\2.10.2\joda-time-2.10.2.jar;C:\Users\poong\.m2\repository\org\codehaus\plexus\plexus-utils\3.2.0\plexus-utils-3.2.0.jar;C:\Users\poong\.m2\repository\org\jsoup\jsoup\1.12.1\jsoup-1.12.1.jar;C:\Users\poong\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20190610.1\owasp-java-html-sanitizer-20190610.1.jar;C:\Users\poong\.m2\repository\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar;C:\Users\poong\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\poong"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_311\jre"/>
+    <property name="basedir" value="C:\Users\poong\eclipse-workspace2025\com.CucumberSFWithPOMUpgrade"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\poong\AppData\Local\Temp\surefire8095622808017528545\surefirebooter-20250901163816375_3.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_311\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_311\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_311-b11"/>
+    <property name="user.name" value="poong"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\poong\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\poong\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_311"/>
+    <property name="user.dir" value="C:\Users\poong\eclipse-workspace2025\com.CucumberSFWithPOMUpgrade"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/poong/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin/server;C:/Users/poong/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Poongothai\Gradle\gradle-7.3.1\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Poongothai\softwares\Maven\apache-maven-3.9.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\poong\AppData\Local\Android\Sdk\build-tools;C:\Users\poong\AppData\Local\Android\Sdk\platforms;C:\Users\poong\AppData\Local\Android\Sdk\platform-tools;C:\Users\poong\AppData\Local\Android\Sdk\tools;C:\Users\poong\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Poongothai\Gradle\gradle-7.3.1\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Poongothai\softwares\Maven\apache-maven-3.9.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\poong\AppData\Local\Android\Sdk\build-tools;C:\Users\poong\AppData\Local\Android\Sdk\platforms;C:\Users\poong\AppData\Local\Android\Sdk\platform-tools;C:\Users\poong\AppData\Local\Android\Sdk\tools;C:\Users\poong\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\poong\AppData\Local\Microsoft\WindowsApps;C:\Users\poong\AppData\Local\atom\bin;C:\Users\poong\;C:\WINDOWS\System32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.311-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="runScenario[&quot;TC01 unsuccessful login&quot;, &quot;implementing login functionalities&quot;](1)" classname="com.CucumberSFWithPOMUpgrade.Runner.LoginRunner" time="11.849">
+    <system-out><![CDATA[2025-09-01 16:38:17,584 INFO  SF_ListenerUtility.java:49 - Test Start of my TC----------
+2025-09-01 16:38:18,115 INFO  SF_ListenerUtility.java:21 - runScenario My Test Started---------------
+
+&amp#27;[1mScenario:&amp#27;[22m TC01 unsuccessful login                                        &amp#27;[90m# file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:3&amp#27;[39m
+Launching browser...
+2025-09-01 16:38:21,038 INFO  BaseStepDefinition.java:116 - https://login.salesforce.com/ is entered
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mGiven &amp#27;[22mthe url &amp#27;[1m"https://login.salesforce.com/"&amp#27;[22m&amp#27;[39m                        &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.the_url(java.lang.String)&amp#27;[39m
+Login driver: ....ChromeDriver: chrome on WINDOWS (337458e6be8c53b0bd9c26fc3c667366)
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi land in &amp#27;[1m"LoginPage"&amp#27;[22m&amp#27;[39m                                           &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_land_in(java.lang.String)&amp#27;[39m
+2025-09-01 16:38:25,724 INFO  BasePage.java:43 - Data entered in the  Username Filed
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi enter username&amp#27;[39m                                                &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_enter_username()&amp#27;[39m
+2025-09-01 16:38:25,729 INFO  BasePage.java:85 - Title: Login | Salesforce
+2025-09-01 16:38:26,152 INFO  BasePage.java:69 - Login button was enabled and clicked
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi click the login button&amp#27;[39m                                        &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_the_login_button()&amp#27;[39m
+2025-09-01 16:38:29,198 INFO  BasePage.java:97 - Text : Error: Please enter your password.
+2025-09-01 16:38:29,214 INFO  LoginStepDefinition.java:35 - password error message validated succesfully!!!
+password error message validated succesfully!!!
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mThen &amp#27;[22mi should see error message &amp#27;[1m"Error: Please enter your password."&amp#27;[22m&amp#27;[39m &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.LoginStepDefinition.i_should_see_error_message(java.lang.String)&amp#27;[39m
+2025-09-01 16:38:29,965 INFO  BaseStepDefinition.java:124 - browser get closed successfully..
+]]></system-out>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 139.0.7258.154 (9e0d6b2b47ffb17007b713429c9a302f9e43847f-refs/branch-heads/7258@{#2926}) on port 1428
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 1428.
+Sep 01, 2025 4:38:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;TC02 successful login&quot;, &quot;implementing login functionalities&quot;](2)" classname="com.CucumberSFWithPOMUpgrade.Runner.LoginRunner" time="11.028">
+    <failure message="Both titles are not equals, validation success!!! did not expect [Login | Salesforce] but found [Login | Salesforce]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Both titles are not equals, validation success!!! did not expect [Login | Salesforce] but found [Login | Salesforce]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failEquals(Assert.java:1417)
+	at org.testng.Assert.assertNotEqualsImpl(Assert.java:156)
+	at org.testng.Assert.assertNotEquals(Assert.java:1986)
+	at com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_should_be_able_to_see_homepage(BaseStepDefinition.java:171)
+	at ✽.i should be able to see homepage(file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:17)
+]]></failure>
+    <system-out><![CDATA[2025-09-01 16:38:29,965 INFO  SF_ListenerUtility.java:27 - runScenario My Test Success------------
+2025-09-01 16:38:29,965 INFO  SF_ListenerUtility.java:21 - runScenario My Test Started---------------
+
+&amp#27;[1mScenario:&amp#27;[22m TC02 successful login                   &amp#27;[90m# file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:10&amp#27;[39m
+Launching browser...
+2025-09-01 16:38:32,005 INFO  BaseStepDefinition.java:116 - https://login.salesforce.com/ is entered
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mGiven &amp#27;[22mthe url &amp#27;[1m"https://login.salesforce.com/"&amp#27;[22m&amp#27;[39m &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.the_url(java.lang.String)&amp#27;[39m
+Login driver: ....ChromeDriver: chrome on WINDOWS (6b5649d5e4f3790d158f94cf10cc7ee1)
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi land in &amp#27;[1m"LoginPage"&amp#27;[22m&amp#27;[39m                    &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_land_in(java.lang.String)&amp#27;[39m
+2025-09-01 16:38:36,325 INFO  BasePage.java:43 - Data entered in the  Username Filed
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi enter username&amp#27;[39m                         &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_enter_username()&amp#27;[39m
+2025-09-01 16:38:36,521 INFO  BasePage.java:43 - Data entered in the  password Filed
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mAnd &amp#27;[22mi enter the password&amp#27;[39m                      &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_enter_the_password()&amp#27;[39m
+2025-09-01 16:38:36,530 INFO  BasePage.java:85 - Title: Login | Salesforce
+2025-09-01 16:38:36,969 INFO  BasePage.java:69 - Login button was enabled and clicked
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi click the login button&amp#27;[39m                 &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_the_login_button()&amp#27;[39m
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi land in &amp#27;[1m"HomePage"&amp#27;[22m&amp#27;[39m                     &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_land_in(java.lang.String)&amp#27;[39m
+Title : Login | Salesforce
+2025-09-01 16:38:40,006 INFO  BasePage.java:85 - Title: Login | Salesforce
+expectedTitle : Login | Salesforce
+  &amp#27;[31mâœ˜&amp#27;[39m &amp#27;[31m&amp#27;[1mThen &amp#27;[22mi should be able to see homepage&amp#27;[39m         &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_should_be_able_to_see_homepage()&amp#27;[39m
+        &amp#27;[31mjava.lang.AssertionError: Both titles are not equals, validation success!!! did not expect [Login | Salesforce] but found [Login | Salesforce]&amp#27;[39m
+        &amp#27;[31m	at org.testng.Assert.fail(Assert.java:110)&amp#27;[39m
+        &amp#27;[31m	at org.testng.Assert.failEquals(Assert.java:1417)&amp#27;[39m
+        &amp#27;[31m	at org.testng.Assert.assertNotEqualsImpl(Assert.java:156)&amp#27;[39m
+        &amp#27;[31m	at org.testng.Assert.assertNotEquals(Assert.java:1986)&amp#27;[39m
+        &amp#27;[31m	at com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_should_be_able_to_see_homepage(BaseStepDefinition.java:171)&amp#27;[39m
+        &amp#27;[31m	at âœ½.i should be able to see homepage(file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:17)&amp#27;[39m
+
+        &amp#27;[34mEmbedding TC02 successful login [image/png 119106 bytes]&amp#27;[39m
+
+2025-09-01 16:38:41,003 INFO  BaseStepDefinition.java:124 - browser get closed successfully..
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 139.0.7258.154 (9e0d6b2b47ffb17007b713429c9a302f9e43847f-refs/branch-heads/7258@{#2926}) on port 10230
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 10230.
+Sep 01, 2025 4:38:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;TC03 RememberMe check box&quot;, &quot;implementing login functionalities&quot;](3)" classname="com.CucumberSFWithPOMUpgrade.Runner.LoginRunner" time="45.633">
+    <failure message="Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator &apos;By.id: userNavLabel&apos; (tried for 30 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException"><![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: userNavLabel' (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.CucumberSFWithPOMUpgrade.Pages.Base.BasePage.WaitForVisibility(BasePage.java:163)
+	at com.CucumberSFWithPOMUpgrade.Pages.HomePage.clickUserMenuDropdown(HomePage.java:67)
+	at com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_usermenu_dropdown(BaseStepDefinition.java:176)
+	at ✽.i click usermenu dropdown(file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:28)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNavLabel"}
+  (Session info: chrome=139.0.7258.155)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-U68A7E0', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\poong\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1de98be861f34f3fc6c6089297f02a82
+*** Element info: {Using=id, value=userNavLabel}
+	at sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+	at org.openqa.selenium.By$ById.findElement(By.java:188)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy35.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 4 more
+]]></failure>
+    <system-out><![CDATA[2025-09-01 16:38:41,007 ERROR SF_ListenerUtility.java:33 - runScenario My Test Failed------------------
+2025-09-01 16:38:41,009 INFO  SF_ListenerUtility.java:21 - runScenario My Test Started---------------
+
+&amp#27;[1mScenario:&amp#27;[22m TC03 RememberMe check box               &amp#27;[90m# file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:20&amp#27;[39m
+Launching browser...
+2025-09-01 16:38:44,546 INFO  BaseStepDefinition.java:116 - https://login.salesforce.com/ is entered
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mGiven &amp#27;[22mthe url &amp#27;[1m"https://login.salesforce.com/"&amp#27;[22m&amp#27;[39m &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.the_url(java.lang.String)&amp#27;[39m
+Login driver: ....ChromeDriver: chrome on WINDOWS (1de98be861f34f3fc6c6089297f02a82)
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi land in &amp#27;[1m"LoginPage"&amp#27;[22m&amp#27;[39m                    &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_land_in(java.lang.String)&amp#27;[39m
+2025-09-01 16:38:48,790 INFO  BasePage.java:43 - Data entered in the  Username Filed
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi enter username&amp#27;[39m                         &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_enter_username()&amp#27;[39m
+2025-09-01 16:38:48,952 INFO  BasePage.java:43 - Data entered in the  password Filed
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mAnd &amp#27;[22mi enter the password&amp#27;[39m                      &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_enter_the_password()&amp#27;[39m
+2025-09-01 16:38:49,075 INFO  BasePage.java:69 - rememberMe CheckBox was enabled and clicked
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mAnd &amp#27;[22mi click remember me check box&amp#27;[39m             &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.LoginStepDefinition.i_click_remember_me_check_box()&amp#27;[39m
+2025-09-01 16:38:52,109 INFO  BasePage.java:85 - Title: Login | Salesforce
+2025-09-01 16:38:52,293 INFO  BasePage.java:69 - Login button was enabled and clicked
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi click the login button&amp#27;[39m                 &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_the_login_button()&amp#27;[39m
+  &amp#27;[32mâœ”&amp#27;[39m &amp#27;[32m&amp#27;[1mWhen &amp#27;[22mi land in &amp#27;[1m"HomePage"&amp#27;[22m&amp#27;[39m                     &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_land_in(java.lang.String)&amp#27;[39m
+  &amp#27;[31mâœ˜&amp#27;[39m &amp#27;[31m&amp#27;[1mAnd &amp#27;[22mi click usermenu dropdown&amp#27;[39m                 &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_usermenu_dropdown()&amp#27;[39m
+        &amp#27;[31morg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: userNavLabel' (tried for 30 second(s) with 500 milliseconds interval)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)&amp#27;[39m
+        &amp#27;[31m	at com.CucumberSFWithPOMUpgrade.Pages.Base.BasePage.WaitForVisibility(BasePage.java:163)&amp#27;[39m
+        &amp#27;[31m	at com.CucumberSFWithPOMUpgrade.Pages.HomePage.clickUserMenuDropdown(HomePage.java:67)&amp#27;[39m
+        &amp#27;[31m	at com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_usermenu_dropdown(BaseStepDefinition.java:176)&amp#27;[39m
+        &amp#27;[31m	at âœ½.i click usermenu dropdown(file:///C:/Users/poong/eclipse-workspace2025/com.CucumberSFWithPOMUpgrade/src/test/resources/features/Login.feature:28)&amp#27;[39m
+        &amp#27;[31mCaused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#userNavLabel"}&amp#27;[39m
+        &amp#27;[31m  (Session info: chrome=139.0.7258.155)&amp#27;[39m
+        &amp#27;[31mFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&amp#27;[39m
+        &amp#27;[31mBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&amp#27;[39m
+        &amp#27;[31mSystem info: host: 'DESKTOP-U68A7E0', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'&amp#27;[39m
+        &amp#27;[31mDriver info: org.openqa.selenium.chrome.ChromeDriver&amp#27;[39m
+        &amp#27;[31mCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\poong\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&amp#27;[39m
+        &amp#27;[31mSession ID: 1de98be861f34f3fc6c6089297f02a82&amp#27;[39m
+        &amp#27;[31m*** Element info: {Using=id, value=userNavLabel}&amp#27;[39m
+        &amp#27;[31m	at sun.reflect.GeneratedConstructorAccessor22.newInstance(Unknown Source)&amp#27;[39m
+        &amp#27;[31m	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&amp#27;[39m
+        &amp#27;[31m	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.By$ById.findElement(By.java:188)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)&amp#27;[39m
+        &amp#27;[31m	at com.sun.proxy.$Proxy35.isDisplayed(Unknown Source)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)&amp#27;[39m
+        &amp#27;[31m	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)&amp#27;[39m
+        &amp#27;[31m	... 4 more&amp#27;[39m
+  &amp#27;[36mâ†·&amp#27;[39m &amp#27;[36m&amp#27;[1mWhen &amp#27;[22mi click logout&amp#27;[39m                           &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.BaseStepDefinition.i_click_logout()&amp#27;[39m
+  &amp#27;[36mâ†·&amp#27;[39m &amp#27;[36m&amp#27;[1mThen &amp#27;[22mi validate username remember validation&amp#27;[39m  &amp#27;[90m# com.CucumberSFWithPOMUpgrade.StepDefinition.LoginStepDefinition.i_validate_username_remember_validation()&amp#27;[39m
+
+        &amp#27;[34mEmbedding TC03 RememberMe check box [image/png 118821 bytes]&amp#27;[39m
+
+2025-09-01 16:39:26,636 INFO  BaseStepDefinition.java:124 - browser get closed successfully..
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 139.0.7258.154 (9e0d6b2b47ffb17007b713429c9a302f9e43847f-refs/branch-heads/7258@{#2926}) on port 8851
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 8851.
+Sep 01, 2025 4:38:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+</testsuite>
