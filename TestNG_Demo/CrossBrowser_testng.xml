@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+  <test thread-count="5" name="MyTest1">
+  	<parameter name="browsername" value="firefox"></parameter>
+  	<classes> 
+  		<class name="com.TestNG_Demo.Day_1.testNG5Test"></class>
+  	</classes>
+  </test> <!-- MyTest1 -->
+  
+   <test thread-count="5" name="MyTest2">
+  	<parameter name="browsername" value="chrome"></parameter>
+  	<classes> 
+  		<class name="com.TestNG_Demo.Day_1.testNG5Test"></class>
+  	</classes>
+  </test> <!-- MyTest2 -->
+  
+  
+</suite> <!-- MySuite -->

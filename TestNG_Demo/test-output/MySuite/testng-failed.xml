@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MySuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="MyTest1(failed)">
+    <parameter name="browsename" value="firefox"/>
+    <classes>
+      <class name="com.TestNG_Demo.Day_1.testNG5Test">
+        <methods>
+          <include name="login_TC"/>
+        </methods>
+      </class> <!-- com.TestNG_Demo.Day_1.testNG5Test -->
+    </classes>
+  </test> <!-- MyTest1(failed) -->
+</suite> <!-- Failed suite [MySuite] -->
